@@ -1,2 +1,2 @@
-# vircon32-libretro-thumbnails
+# Vircon32
 Thumbnails for Vircon32 games on RetroArch
